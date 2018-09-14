@@ -1,0 +1,13 @@
+Program by: Evan Jackson 
+9/14/2018
+
+
+13 31 73 0 0 0 0 0 0 0 
+
+Memory locations Allocated: 1234
+
+Popping objects from Array!
+
+Memory locations Allocated: 10
+
+13 31 0 0 0 0 0 0 0 0 
