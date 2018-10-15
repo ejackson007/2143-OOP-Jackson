@@ -1,8 +1,7 @@
 /*
 * Course: CMPS 2143 - OOP
 *
-* Purpose: Overload operators, as well as functions, to give extra utility
-* to the myVector Class
+* Purpose: Play John Conway's Game of Life
 *
 * @author Evan Jackson
 * @version 1.0 10/14/18
