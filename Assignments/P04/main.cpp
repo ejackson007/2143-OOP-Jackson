@@ -160,6 +160,12 @@ struct gameOfLife{
 		}
 	}
 
+	/**
+	* updates World to the next generation. Goes through the list and checks the neighbor
+	* count on each, applies the rules for the game accordingly, and resets the count to 0
+	* @param n/a
+	* @return void
+	*/
 	void updateWorld()
 	{
 		for (int i = 0; i < Height; i++)
