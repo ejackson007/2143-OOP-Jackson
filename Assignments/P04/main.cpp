@@ -1,7 +1,8 @@
 /*
 * Course: CMPS 2143 - OOP
 *
-* Purpose: Play John Conway's Game of Life
+* Purpose: Play John Conway's Game of life and use inheritance to create 
+* a world of cells
 *
 * @author Evan Jackson
 * @version 1.0 10/14/18
