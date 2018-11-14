@@ -1,12 +1,17 @@
 /*
 * Course: CMPS 2143 - OOP
 *
-* Purpose: Implements a counter class to handle sfml clock and its counting
+* Purpose: Creates a Clock Class to handle the counter
+* moving, and bouncing off of the edges
 *
 * @author Evan Jackson
-* @version 1.0 11/2/2018
+* @version 1.0 11/14/2018
 * @github https://github.com/ejackson007/2143-OOP-Jackson
 */
+
+//I had used the current time while debugging it,
+//and Visual Studios gives a warning, so I had to 
+//put in an ignore of the warning
 #pragma warning(disable : 4996)
 #include <SFML/Graphics.hpp>
 #include "Group.h"
